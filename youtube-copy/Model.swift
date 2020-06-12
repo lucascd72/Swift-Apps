@@ -27,7 +27,20 @@ class Model {
                 return
             }
             
-            // parsing the data intro the object video
+            do {
+                // parsing the data intro the object video
+                
+                let decoder = JSONDecoder()
+                
+                let response = try decoder.decode(Response.self, from: data!)
+                
+                dump (response)
+                
+            } catch {
+                
+            }
+            
+            
         }
         // Kick off the task
         
