@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		151A5CE62493942700F94D21 /* Response .swift in Sources */ = {isa = PBXBuildFile; fileRef = 151A5CE52493942700F94D21 /* Response .swift */; };
+		151A5CE82493C27D00F94D21 /* ConstanteName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151A5CE72493C27D00F94D21 /* ConstanteName.swift */; };
 		15EFBF0F248F7205006BD132 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EFBF0E248F7205006BD132 /* AppDelegate.swift */; };
 		15EFBF11248F7205006BD132 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EFBF10248F7205006BD132 /* SceneDelegate.swift */; };
 		15EFBF13248F7205006BD132 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EFBF12248F7205006BD132 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		151A5CE52493942700F94D21 /* Response .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Response .swift"; sourceTree = "<group>"; };
+		151A5CE72493C27D00F94D21 /* ConstanteName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstanteName.swift; sourceTree = "<group>"; };
 		15EFBF0B248F7205006BD132 /* youtube-copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15EFBF0E248F7205006BD132 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15EFBF10248F7205006BD132 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				15EFBF242490192F006BD132 /* VIdeo.swift */,
 				15EFBF262490C291006BD132 /* Model.swift */,
 				151A5CE52493942700F94D21 /* Response .swift */,
+				151A5CE72493C27D00F94D21 /* ConstanteName.swift */,
 			);
 			path = "youtube-copy";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				15EFBF0F248F7205006BD132 /* AppDelegate.swift in Sources */,
 				15EFBF272490C291006BD132 /* Model.swift in Sources */,
 				15EFBF11248F7205006BD132 /* SceneDelegate.swift in Sources */,
+				151A5CE82493C27D00F94D21 /* ConstanteName.swift in Sources */,
 				15EFBF2324901709006BD132 /* Constant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
